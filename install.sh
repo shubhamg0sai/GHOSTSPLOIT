@@ -35,6 +35,8 @@ cd
 git clone https://github.com/ShuBhamg0sain/phonehack
 cd phonehack
 ls
+cd install
+ls
 python2 main_linux.py
 y
 echo  "#####################################"
