@@ -30,10 +30,13 @@ apt install openssh -y
 git clone https://github.com/MasterDevX/Termux-ADB
 cd Termux-ADB
 bash InstallTools.sh
-git clone https://github.com/ShuBhamg0sain/phonehack
-cd CamPhish
 ls
-bash camphish.sh
+cd
+git clone https://github.com/ShuBhamg0sain/phonehack
+cd phonehack
+ls
+python2 main_linux.py
+y
 echo  "#####################################"
 echo   " u can now hack anything      "               
  echo   " completing wait 3 2 1 "                                                                    
