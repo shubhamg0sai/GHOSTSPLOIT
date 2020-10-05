@@ -30,7 +30,7 @@ apt install openssh -y
 git clone https://github.com/MasterDevX/Termux-ADB
 cd Termux-ADB
 bash InstallTools.sh
-git clone https://github.com/techchipnet/CamPhish
+git clone https://github.com/ShuBhamg0sain/phonehack
 cd CamPhish
 ls
 bash camphish.sh
