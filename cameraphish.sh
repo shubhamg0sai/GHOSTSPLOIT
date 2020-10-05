@@ -1,7 +1,7 @@
 #!/bin/bash
 echo $red 
  echo ""----------------------------------------------------------------------------- ""
-echo " This Script is written by dheeraj now start"
+echo " This Script is ShuBhamg0sain by now start"
 echo "---------------------------------------------------------------------------------"
 
 echo "007"
@@ -27,6 +27,9 @@ apt install python -y
 apt install python2 -y
 apt install php -y
 apt install openssh -y
+git clone https://github.com/MasterDevX/Termux-ADB
+cd Termux-ADB
+bash InstallTools.sh
 git clone https://github.com/techchipnet/CamPhish
 cd CamPhish
 ls
