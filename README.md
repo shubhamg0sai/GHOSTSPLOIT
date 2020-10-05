@@ -26,3 +26,13 @@ Facebook group : https://facebook.com/groups/226519011789922/?ref=group_browse
 
 Telegram :
 https://t.me/ShuBham_g0sain
+
+## Installation
+
+git clone https://github.com/ShuBhamg0sain/phonehack
+
+cd phonehack
+
+bash install.sh
+
+
