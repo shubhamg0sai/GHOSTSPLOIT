@@ -47,7 +47,7 @@ echo   "####################################"
 
 echo  "#####################################"
 echo   "anynomous "               
- echo   " join us on facebook Dhee Techno Hacker "                                                                   echo   "####################################"
+ echo   " join us on facebook https://m.facebook.com/shubham.gosain.980 "                                                                   echo   "####################################"
 
 
 echo " "                                                                   
@@ -65,7 +65,7 @@ echo   " processing wait......
 "                                                                    
 echo   "####################################"
 
-echo " If You Connected To Internet Then u downloaded success fully subscribe us Dhee Techno Hacker channel ...we are learners dont underestimate us "
+echo " If You Connected To Internet Then u downloaded success fully follow me Instagram https://www.instagram.com/shubham_g0sain/?hl=en "
 
 echo " ??? now rock and hack ??? "
 
