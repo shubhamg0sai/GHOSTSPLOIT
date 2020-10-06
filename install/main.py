@@ -1,6 +1,6 @@
 # coding: latin-1
 
-#Coded By Zucccs
+#Coded By ShuBhamg0sain
 # Enjoy
 
 
@@ -61,7 +61,7 @@ logo_design_2 = Fore.GREEN + '''
   .;'                     `;,
  .;'  ,;'             `;,  `;,   {0}PhoneSploit
 .;'  ,;'  ,;'     `;,  `;,  `;,
-::   ::   :   {1}( ){0}   :   ::   ::  {1}Coded by Zucccs / Metachar{0}
+::   ::   :   {1}( ){0}   :   ::   ::  {1}Coded by ShuBhamg0sain / Metachar{0}
 ':.  ':.  ':. {1}/_\{0} ,:'  ,:'  ,:'
  ':.  ':.    {1}/___\{0}    ,:'  ,:'   
   ':.       {1}/_____\{0}      ,:'
@@ -79,8 +79,8 @@ logo_design_4 = '''
           +hydNNNNdyh+
         +mMMMMMMMMMMMMm+
       `dMMm\033[0m:\033[92mNMMMMMMN\033[0m:\033[92mmMMd`
-      hMMMMMMMMMMMMMMMMMMh
-  \033[92m..  yyyyyyyyyyyyyyyyyyyy  ..              \033[0m Expoit time :) \033[92m
+      hMMMMMMMMMMMMMMMMMMh##
+  \033[92m..  ShuBhamg0sain.### ..              \033[0m Expoit time :) \033[92m
 \033[92m.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.            \033[0m Thanks for downloading!\033[92m
 \033[92m:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
 :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
