@@ -1,6 +1,6 @@
 # phonehack
 
-### this is direct Installation of phone Sploit tool
+# this is direct Installation of phone Sploit tool
 
 
 ### FIND...ME.
