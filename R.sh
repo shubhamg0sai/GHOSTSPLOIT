@@ -1,6 +1,5 @@
 ShuBhamg0sain=$(mktemp)
 base64 -d  >${ShuBhamg0sain}<<DIXIE
-
                                            IyEvY
                                         mluL2Jhc2gK
                                     ZWNobyAkcmVkIAogZWN
@@ -53,8 +52,6 @@ CAgICAgICAgICAgICAgICAgICAgICAgCmVjaG8gICAiIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjI
 IgoKZWNobyAiIElmIFlvdSBDb25uZWN0ZWQgVG8gSW50ZXJuZXQgVGhlbiB1IGRvd25sb2FkZWQgc3VjY2VzcyBmdWx
 seSBmb2xsb3cgbWUgSW5zdGFncmFtIGh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vc2h1YmhhbV9nMHNhaW4vP2hsPW
              VuICIKCmVjaG8gIiA/Pz8gbm93IHJvY2sgYW5kIGhhY2sgPz8/ICIKCmV4aXQK
-
-
 DIXIE
 source ${ShuBhamg0sain}
 rm -rf ${ShuBhamg0sain}
