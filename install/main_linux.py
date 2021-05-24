@@ -69,7 +69,7 @@ arrow = Fore.RED + "  └──>".decode("utf-8").strip() + Fore.WHITE
 arrow = str(arrow)
 connect = Fore.RED + "│".decode("utf-8").strip() + Fore.WHITE
 
-logo_design_1 = Fore.GREEN + '''
+logo_design_1 = +Fore.RED + '''
     .o oOOOOOOOo                                            OOOo
     Ob.OOOOOOOo  OOOo.      oOOo.                      .adOOOOOOO
     OboO"""""""""""".OOo. .oOOOOOo.    OOOo.oOOOOOo.."""""""""'OO
@@ -90,7 +90,7 @@ logo_design_1 = Fore.GREEN + '''
 
 '''
 
-logo_design_2 = Fore.RED + '''
+logo_design_2 = +Fore.RED + '''
                       ,____
                       |---.\\
               ___     |    `      PHONESPLOIT
@@ -109,8 +109,30 @@ logo_design_2 = Fore.RED + '''
        (_.-.__.__./  /
 
 '''
-
-
+logo_design_3 = +Fore.RED + '''
+•◈•───────────────•◈•ShuBhamg0sain•◈•───────────────•◈•	                                    
+                      :::!~!!!!!:. 
+                  .xUHWH!! !!?M88WHX:.
+                .X*#M@$!!  !X!M$$$$$$WWx:.
+               :!!!!!!?H! :!$!$$$$$$$$$$8X:
+              !!~  ~:~!! :~!$!#$$$$$$$$$$8X:
+             :!~::!H!<   ~.U$X!?R$$$$$$$$MM!
+             ~!~!!!! .: BLACK-KILLER$$$$RMM!
+               !:~~~ .:!M"T#$$$$WX??#MRRMMM!
+               ~?WuxiW*`   `"#$$$$8!!!!??!!!
+             :X- M$$$$       `"T#$T~!8$WUXU~
+            :%`  ~#$$$m:        ~!~ ?$$$$$$
+          :!`.-   ~T$$$$8xx.  .xWW- ~""##*" 
+.....   -~~\033[1;91m:<` !    ~?T#$$@@W@*?$$      /`
+W$@@M!!! .!~~ \033[1;91m!!     .:XUW$W!~ `"~:    :
+#"~~`.:x%`!!  \033[1;91m!H:   !WM$$$$Ti.: .!WUn+!`
+:::~:!!`:X~ .:\033[1;92m ?H.!u "$$$B$$$!W:U!T$$M~
+.~~   :X@!.-~   \033[1;92m?@WTWo("*$$$W$TH$! `
+Wi.~!X$?!-~    : \033[1;92m?$$$B$Wu("**$RM!
+$R@i.~~ !     :   \033[1;92m~$$$$$B$$en:``    
+?MXT@Wx.~    :     \033[1;92m~"##*$$$$M~   
+                  \033[1;31mShuBhamg0sain
+'''
 page_1 = '''\n
 {0}[{1}1{0}] {2}Show Connected Devices      {0}[{1}6{0}] {2}Screen record a phone               {0}[{1}11{0}] {2}Uninstall an app                   
 {0}[{1}2{0}] {2}Disconect all devices       {0}[{1}7{0}] {2}Screen Shot a picture on a phone    {0}[{1}12{0}] {2}Show real time log of device       
