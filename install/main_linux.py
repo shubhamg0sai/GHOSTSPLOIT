@@ -96,8 +96,9 @@ logo_design_1 = Fore.RED + '''
                  '%o  OOOO"%OOOO%"%OOOOO"OOOOOO"OOO':
                       `$"  `OOOO' `O"Y ' `OOOO'  o             .
     .                  .     OP"          : o     .
-
+•◈•───────────────────•◈•@ShuBhamg0sain•◈•──────────────────•◈•
 '''
+
 
 logo_design_2 = Fore.RED + '''
 •◈•─────•◈•@ShuBhamg0sain•◈•─────•◈•
@@ -117,8 +118,10 @@ logo_design_2 = Fore.RED + '''
          .'      |   |
         /         \  |
        (_.-.__.__./  /
-
+•◈•─────•◈•@ShuBhamg0sain•◈•─────•◈•
 '''
+
+
 logo_design_3 = Fore.RED + '''
 •◈•────────────•◈•@ShuBhamg0sain•◈•────────────•◈•
                       :::!~!!!!!:.
@@ -141,7 +144,7 @@ W$@@M!!! .!~~ \@#$_&-+()!!     .:XUW$W!~ `"~:    :
 Wi.~!X$?!-~    : \@#$_&-+()?$$$B$Wu("**$RM!    GHOSTSPLOIT
 $R@i.~~ !     :   \@#$_&-+()~$$$$$B$$en:``
 ?MXT@Wx.~    :     \@#$_&-+()~"##*$$$$M~ 
-
+•◈•────────────•◈•@ShuBhamg0sain•◈•────────────•◈•
 '''
 
 page_1 = '''\n
