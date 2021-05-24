@@ -138,7 +138,7 @@ page_2 = '''\n
 #Main
 def main():
     page_num = 1
-    option = raw_input(Fore.WHITE + "phonesploit"+Fore.RED + "(main_menu) "+Fore.WHITE + "> ")
+    option = raw_input(Fore.WHITE + "ghostsploit"+Fore.RED + "(main_menu) "+Fore.WHITE + "> ")
     if option == '1':
         os.system("adb devices -l")
     elif option  ==  '2':
