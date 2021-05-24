@@ -85,7 +85,7 @@ logo_design_1 = Fore.RED + '''
     OOP.oOOOOOOOOOOO "POOOOOOOOOOOo.   `"OOOOOOOOOP,OOOOOOOOOOOB'
     `O'OOOO'     `OOOOo"OOOOOOOOOOO` .adOOOOOOOOO"oOOO'    `OOOOo
     .OOOO'            `OOOOOOOOOOOOOOOOOOOOOOOOOO'            `OO
-    OOOOO                 '"OOOOOOOOOOOOOOOO"`                oOO
+    OOOOO   GHOSTSPLOIT   '"OOOOOOOOOOOOOOOO"`  GHOSTSPLOIT   oOO
    oOOOOOba.                .adOOOOOOOOOOba               .adOOOOo.
   oOOOOOOOOOOOOOba.    .adOOOOOOOOOO@^OOOOOOOba.     .adOOOOOOOOOOOO
  OOOOOOOOOOOOOOOOO.OOOOOOOOOOOOOO"`  '"OOOOOOOOOOOOO.OOOOOOOOOOOOOO
@@ -103,13 +103,13 @@ logo_design_2 = Fore.RED + '''
 •◈•─────•◈•@ShuBhamg0sain•◈•─────•◈•
                       ,____
                       |---.\\
-              ___     |    `      PHONESPLOIT
+              ___     |    `
              / .-\  ./=)
             |  |"|_/\/|
-            ;  |-;| /_|         REAP THE REWARDS
+            ;  |-;| /_|           
            / \_| |/ \ |
           /      \/\( |
-          |   /  |` ) |
+          |   /  |` ) |  GHOSTSPLOIT
           /   \ _/    |
          /--._/  \    |
          `/|)    |    /
@@ -138,7 +138,7 @@ W$@@M!!! .!~~ \@#$_&-+()!!     .:XUW$W!~ `"~:    :
 #"~~`.:x%`!!  \@#$_&-+()!H:   !WM$$$$Ti.: .!WUn+!`
 :::~:!!`:X~ .:\@#$_&-+() ?H.!u "$$$B$$$!W:U!T$$M~
 .~~   :X@!.-~   \?@WTWo("*$$$W$TH$! `
-Wi.~!X$?!-~    : \@#$_&-+()?$$$B$Wu("**$RM!
+Wi.~!X$?!-~    : \@#$_&-+()?$$$B$Wu("**$RM!    GHOSTSPLOIT
 $R@i.~~ !     :   \@#$_&-+()~$$$$$B$$en:``
 ?MXT@Wx.~    :     \@#$_&-+()~"##*$$$$M~ 
 
