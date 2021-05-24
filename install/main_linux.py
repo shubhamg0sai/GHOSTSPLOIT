@@ -1,7 +1,13 @@
+#=======================================================================================
+#CYBER NAME BLACK-KILLER
+#GITHUB: https://github.com/ShuBhamg0sain
+#instagram:https://instagram.com/shubham_g0sain
+#=======================================================================================
+
+#=======================================================================================
 import os
 CorrectUsername = "g0sain"
 CorrectPassword = "Hack"
-
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m[#] \x1b[0;36m Enter Username\x1b[1;92m➤ ")
@@ -18,12 +24,11 @@ while (loop == 'true'):
         os.system('xdg-open https://www.instagram.com/shubham_g0sain/?hl=en')
 
 #-*- coding: utf-8 -*-
-
 #Coded By ShuBhamg0sain
 # Enjoy
+#=======================================================================================
 
-
-#=============================
+#=======================================================================================
 #Imports
 import os
 import sys
@@ -33,13 +38,15 @@ from colorama import Fore, init
 
 reload(sys)
 sys.setdefaultencoding("utf-8")
+#=======================================================================================
 
-#=============================
+#=======================================================================================
 # Variables
 CurrentDir = os.path.dirname(os.path.abspath(__file__))
 load_count = 0
+#=======================================================================================
 
-#=============================
+#=======================================================================================
 #Install Functions
 # def ColoringModeStartup():
 #     coloring_file = open(CurrentDir+"\\install\\coloring.txt", "a+")
@@ -61,8 +68,9 @@ load_count = 0
 #                 os.system("sudo apt install adb")
 #             else:
 #                 main()
+#=======================================================================================
 
-#=============================
+#=======================================================================================
 # Graphics # http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 
 arrow = Fore.RED + "  └──>".decode("utf-8").strip() + Fore.WHITE
@@ -157,7 +165,7 @@ page_2 = '''\n
 '''.format(Fore.CYAN, Fore.RED, Fore.GREEN)
 
 
-#=============================
+#=======================================================================================
 #Main
 def main():
     page_num = 1
@@ -470,7 +478,8 @@ def main():
 
     main()
 
-#=============================
+#=======================================================================================
+
 
 def clear(page):
     global page2
@@ -481,7 +490,8 @@ def clear(page):
 
 
 
-#=============================  
+#=======================================================================================
+
 # Run
 yn = raw_input(Fore.WHITE + "Have you already installed adb via command line "+Fore.GREEN + "Y"+Fore.WHITE+"/"+Fore.RED+"N "+Fore.WHITE)
 if yn == "n":
