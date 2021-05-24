@@ -490,20 +490,19 @@ def clear(page):
 
 
 
+
 #=============================  
 # Run
-try:
-    init(convert=True)
-    os.chdir(CurrentDir+"//adb")
-    print (Fore.RED + "Starting  adb server..")
-    os.system("adb tcpip 5555")
-    t.sleep(4)
-    os.system('cls')
-    banner_title = random.choice([logo_design_1,logo_design_2,logo_design_3,logo_design_4,logo_design_5,logo_design_6,logo_design_7])
-    print (Fore.RED + banner_title)  
-    print (page_1)
-    main()
+yn = raw_input(Fore.WHITE + "Have you already installed adb via command line "+Fore.GREEN + "Y"+Fore.WHITE+"/"+Fore.RED+"N "+Fore.WHITE)
+if yn == "n":
+    os.system("sudo apt install adb")
+print (Fore.RED + "Starting  adb server..")
+os.system("adb tcpip 5555")
+t.sleep(4)
+os.system('clear')
+banner_title = random.choice([logo_design_1,logo_design_2,logo_design_3,logo_design_4])
+print (Fore.RED + banner_title)  
+print (page_1)
+main()
 except KeyboardInterrupt:
-    main()
-
-
+main()
