@@ -532,7 +532,7 @@ def clear(page):
 # Run
 yn = raw_input(Fore.WHITE + "Have you already installed adb via command line "+Fore.GREEN + "Y"+Fore.WHITE+"/"+Fore.RED+"N "+Fore.WHITE)
 if yn == "n":
-    os.system("sudo apt install adb")
+    os.system("apt update > /dev/null 2>&1 && apt --assume-yes install wget > /dev/null 2>&1 && wget https://github.com/MasterDevX/Termux-ADB/raw/master/InstallTools.sh -q && bash InstallTools.sh")
 print (Fore.RED + "Starting  adb server..")
 os.system("adb tcpip 5555")
 t.sleep(4)
