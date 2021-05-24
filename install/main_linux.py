@@ -69,25 +69,46 @@ arrow = Fore.RED + "  └──>".decode("utf-8").strip() + Fore.WHITE
 arrow = str(arrow)
 connect = Fore.RED + "│".decode("utf-8").strip() + Fore.WHITE
 
-logo_design_1 = ('''
-  {0}  ____  __                    _____       __      _ __ 
-   / __ \/ /_  ____  ____  ___ / ___/____  / /___  (_) /_
-  / /_/ / __ \/ __ \/ __ \/ _ \\__ \/ __ \/ / __ \/ / __/
-{1} / ____/ / / / /_/ / / / /  __/__/ / /_/ / / /_/ / / /_  
-/_/   /_/ /_/\____/_/ /_/\___/____/ .___/_/\____/_/\__/  
-                                 /_/''').format(Fore.GREEN, Fore.WHITE, Fore.RED)
+logo_design_1 = Fore.GREEN + '''
+    .o oOOOOOOOo                                            OOOo
+    Ob.OOOOOOOo  OOOo.      oOOo.                      .adOOOOOOO
+    OboO"""""""""""".OOo. .oOOOOOo.    OOOo.oOOOOOo.."""""""""'OO
+    OOP.oOOOOOOOOOOO "POOOOOOOOOOOo.   `"OOOOOOOOOP,OOOOOOOOOOOB'
+    `O'OOOO'     `OOOOo"OOOOOOOOOOO` .adOOOOOOOOO"oOOO'    `OOOOo
+    .OOOO'            `OOOOOOOOOOOOOOOOOOOOOOOOOO'            `OO
+    OOOOO                 '"OOOOOOOOOOOOOOOO"`                oOO
+   oOOOOOba.                .adOOOOOOOOOOba               .adOOOOo.
+  oOOOOOOOOOOOOOba.    .adOOOOOOOOOO@^OOOOOOOba.     .adOOOOOOOOOOOO
+ OOOOOOOOOOOOOOOOO.OOOOOOOOOOOOOO"`  '"OOOOOOOOOOOOO.OOOOOOOOOOOOOO
+ "OOOO"       "YOoOOOOMOIONODOO"`  .   '"OOROAOPOEOOOoOY"     "OOO"
+    Y           'OOOOOOOOOOOOOO: .oOOo. :OOOOOOOOOOO?'         :`
+    :            .oO%OOOOOOOOOOo.OOOOOO.oOOOOOOOOOOOO?         .
+    .            oOOP"%OOOOOOOOoOOOOOOO?oOOOOO?OOOO"OOo
+                 '%o  OOOO"%OOOO%"%OOOOO"OOOOOO"OOO':
+                      `$"  `OOOO' `O"Y ' `OOOO'  o             .
+    .                  .     OP"          : o     .
 
-logo_design_2 = Fore.GREEN + '''                                             
-  .;'                     `;,
- .;'  ,;'             `;,  `;,   {0}PhoneSploit
-.;'  ,;'  ,;'     `;,  `;,  `;,
-::   ::   :   {1}( ){0}   :   ::   ::  {1}Coded by ShuBhamg0sain
-':.  ':.  ':. {1}/_\{0} ,:'  ,:'  ,:'
- ':.  ':.    {1}/___\{0}    ,:'  ,:'   
-  ':.       {1}/_____\{0}      ,:'
-           {1}/       \\{0}
-'''.format(Fore.GREEN, Fore.WHITE, Fore.RED)
+'''
 
+logo_design_6 = Fore.RED + '''
+                      ,____
+                      |---.\\
+              ___     |    `      PHONESPLOIT
+             / .-\  ./=)
+            |  |"|_/\/|
+            ;  |-;| /_|         REAP THE REWARDS
+           / \_| |/ \ |
+          /      \/\( |
+          |   /  |` ) |
+          /   \ _/    |
+         /--._/  \    |
+         `/|)    |    /
+           /     |   |
+         .'      |   |
+        /         \  |
+       (_.-.__.__./  /
+
+'''
 logo_design_pre = '''
 {0}╔═╗{1}┬ ┬┌─┐┌┐┌┌─┐{0}╔═╗{1}┌─┐┬  ┌─┐┬┌┬┐
 {0}╠═╝{1}├─┤│ ││││├┤ {0}╚═╗{1}├─┘│  │ ││ │ 
