@@ -90,7 +90,7 @@ logo_design_1 = Fore.GREEN + '''
 
 '''
 
-logo_design_6 = Fore.RED + '''
+logo_design_2 = Fore.RED + '''
                       ,____
                       |---.\\
               ___     |    `      PHONESPLOIT
@@ -109,31 +109,7 @@ logo_design_6 = Fore.RED + '''
        (_.-.__.__./  /
 
 '''
-logo_design_pre = '''
-{0}╔═╗{1}┬ ┬┌─┐┌┐┌┌─┐{0}╔═╗{1}┌─┐┬  ┌─┐┬┌┬┐
-{0}╠═╝{1}├─┤│ ││││├┤ {0}╚═╗{1}├─┘│  │ ││ │ 
-{0}╩  {1}┴ ┴└─┘┘└┘└─┘{0}╚═╝{1}┴  ┴─┘└─┘┴ ┴ '''.format(Fore.GREEN, Fore.WHITE, Fore.RED)
-logo_design_3 = logo_design_pre.decode("utf-8")
 
-logo_design_4 = '''
-\033[92m
-          +hydNNNNdyh+
-        +mMMMMMMMMMMMMm+
-      `dMMm\033[0m:\033[92mNMMMMMMN\033[0m:\033[92mmMMd`
-      hMMMMMMMMMMMMMMMMMMh##
-  \033[92m..  ShuBhamg0sain###  ..              \033[0m Expoit time :) \033[92m
-\033[92m.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.            \033[0m Thanks for downloading!\033[92m
-\033[92m:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
--MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-
- +yy+ MMMMMMMMMMMMMMMMMMMM +yy+
-      mMMMMMMMMMMMMMMMMMMm
-      `/++MMMMh++hMMMM++/`
-          MMMMo  oMMMM
-          MMMMo  oMMMM
-          oNMm-  -mMNs'''
 
 page_1 = '''\n
 {0}[{1}1{0}] {2}Show Connected Devices      {0}[{1}6{0}] {2}Screen record a phone               {0}[{1}11{0}] {2}Uninstall an app                   
