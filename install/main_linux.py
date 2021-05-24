@@ -78,6 +78,38 @@ arrow = str(arrow)
 connect = Fore.RED + "│".decode("utf-8").strip() + Fore.WHITE
 
 logo_design_1 = Fore.RED + '''
+◈•─────•◈•@ShuBhamg0sain•◈•─────•◈•
+      $    $     $     $    $
+     $    $$     $     $$    $
+    $$   $$      $      $$    $$
+    $$   $$      $      $$    $
+   $$    $$      $      $$    $$
+   $$    $$    $$$$$    $$    $$
+   $$   $$$   $$$$$$$   $$$   $$
+  $$$   $$$   $$$$$$$   $$$   $$$
+  $$$   $$$   $$$$$$$   $$$   $$$
+  $$$   $$$    $$$$$    $$$   $$$
+  $$$    $$$   $$$$$   $$$   $$$$
+   $$$$$$$$-GHOSTSPLOIT-$$$$$$$$
+           $$$$$$$$$$$$$$
+            $$$$$$$$$$$$
+   $$$$$$$$-GHOSTSPLOIT-$$$$$$$$
+  $$$$$$$$$$_$$$$$ $$$$$-$$$$$$$$$$
+ $$$$   $$$  $$$$   $$$$  $$$   $$$$
+ $$$    $$$  $$$$$ $$$$$  $$$    $$$
+  $$$   $$$  $$$     $$$  $$$   $$$
+  $$$   $$$  $$$$$ $$$$$  $$$   $$$
+   $$    $$   $$$   $$$   $$    $$
+   $$$   $$   $$$$ $$$$   $$   $$$
+    $$    $$   $$$$$$$   $$    $$
+     $$    $    $$$$$    $    $$
+      $     $           $     $
+       $     $         $    $
+◈•─────•◈•@ShuBhamg0sain•◈•─────•◈•
+'''
+
+
+logo_design_4 = Fore.RED + '''
 •◈•───────────────────•◈•@ShuBhamg0sain•◈•──────────────────•◈•
     .o oOOOOOOOo                                            OOOo
     Ob.OOOOOOOo  OOOo.      oOOo.                      .adOOOOOOO
@@ -100,7 +132,7 @@ logo_design_1 = Fore.RED + '''
 '''
 
 
-logo_design_2 = Fore.RED + '''
+logo_design_3 = Fore.RED + '''
 •◈•─────•◈•@ShuBhamg0sain•◈•─────•◈•
                       ,____
                       |---.\\
@@ -122,7 +154,7 @@ logo_design_2 = Fore.RED + '''
 '''
 
 
-logo_design_3 = Fore.RED + '''
+logo_design_2 = Fore.RED + '''
 •◈•────────────•◈•@ShuBhamg0sain•◈•────────────•◈•
                       :::!~!!!!!:.
                   .xUHWH!! !!?M88WHX:.
@@ -466,14 +498,14 @@ def main():
     elif option == 'p':
         os.system('clear')
         page2 = True
-        banner_title = random.choice([logo_design_1,logo_design_2,logo_design_3])
+        banner_title = random.choice([logo_design_1,logo_design_2,logo_design_3,logo_design_4])
         print (Fore.RED + banner_title)
         print (page_2)  
 
     elif option == 'b':
         os.system('clear')
         page2 = False
-        banner_title = random.choice([logo_design_1,logo_design_2,logo_design_3])
+        banner_title = random.choice([logo_design_1,logo_design_2,logo_design_3,logo_design_4])
         print (Fore.RED + banner_title)
         print (page_1)  
 
@@ -489,7 +521,7 @@ def main():
 def clear(page):
     global page2
     os.system('clear')
-    banner_title = random.choice([logo_design_1,logo_design_2,logo_design_3])
+    banner_title = random.choice([logo_design_1,logo_design_2,logo_design_3,logo_design_4])
     print (Fore.RED + banner_title)    
     print (page)
 
@@ -505,7 +537,7 @@ print (Fore.RED + "Starting  adb server..")
 os.system("adb tcpip 5555")
 t.sleep(4)
 os.system('clear')
-banner_title = random.choice([logo_design_1,logo_design_2,logo_design_3])
+banner_title = random.choice([logo_design_1,logo_design_2,logo_design_3,logo_design_4])
 print (Fore.RED + banner_title)  
 print (page_1)
 main()
