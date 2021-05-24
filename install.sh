@@ -80,6 +80,7 @@ ls
 cd install
 ls
 python2 main_linux.py
+clear
 y
 echo  "#####################################"
 echo   " u can now hack anything      "               
