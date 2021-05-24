@@ -940,12 +940,12 @@ def main():
 85 -->  "TAG_LAST_KEYCODE"        
         ''')        
         print (("[{0}+{1}]Enter a number.").format(Fore.RED, Fore.WHITE))
-        num = raw_input(arrow + "phonesploit"+Fore.RED + "(keycode) "+Fore.WHITE + "> ")
+        num = raw_input(arrow + "ghostsploit"+Fore.RED + "(keycode) "+Fore.WHITE + "> ")
         os.system("adb -s "+device_name+" shell input keyevent "+num)
 
     elif option == '25':
         print (("\n[{0}+{1}]Enter a device name.").format(Fore.RED, Fore.WHITE))
-        device_name = raw_input(arrow + "phonesploit"+Fore.RED + "(current_activity) "+Fore.WHITE + "> ")
+        device_name = raw_input(arrow + "ghostsploit"+Fore.RED + "(current_activity) "+Fore.WHITE + "> ")
         os.system("adb -s " +device_name+ " dumpsys activity")
         main()
         
