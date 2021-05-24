@@ -1,9 +1,7 @@
 # phonehack
 
 # Note
-Find me....for username and password
-
-# Find me on 
+....for username and password 👇
 
 👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain)👈
 
@@ -14,6 +12,8 @@ Find me....for username and password
 git clone https://github.com/ShuBhamg0sain/phonehack
 
 cd phonehack
+
+chmod +x install.sh
 
 bash install.sh
 
