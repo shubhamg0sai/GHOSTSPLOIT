@@ -959,14 +959,14 @@ def main():
     elif option == 'p':
         os.system('clear')
         page2 = True
-        banner_title = random.choice([logo_design_1,logo_design_2,logo_design_3,logo_design_4])
+        banner_title = random.choice([logo_design_1,logo_design_2,logo_design_3])
         print (Fore.RED + banner_title)
         print (page_2)  
 
     elif option == 'b':
         os.system('clear')
         page2 = False
-        banner_title = random.choice([logo_design_1,logo_design_2,logo_design_3,logo_design_4])
+        banner_title = random.choice([logo_design_1,logo_design_2,logo_design_3])
         print (Fore.RED + banner_title)
         print (page_1)  
 
@@ -981,7 +981,7 @@ def main():
 def clear(page):
     global page2
     os.system('clear')
-    banner_title = random.choice([logo_design_1,logo_design_2,logo_design_3,logo_design_4])
+    banner_title = random.choice([logo_design_1,logo_design_2,logo_design_3])
     print (Fore.RED + banner_title)    
     print (page)
 
@@ -996,7 +996,7 @@ print (Fore.RED + "Starting  adb server..")
 os.system("adb tcpip 5555")
 t.sleep(4)
 os.system('clear')
-banner_title = random.choice([logo_design_1,logo_design_2,logo_design_3,logo_design_4])
+banner_title = random.choice([logo_design_1,logo_design_2,logo_design_3])
 print (Fore.RED + banner_title)  
 print (page_1)
 main()
