@@ -575,50 +575,70 @@ arrow = Fore.RED + "  └──>".decode("utf-8").strip() + Fore.WHITE
 arrow = str(arrow)
 connect = Fore.RED + "│".decode("utf-8").strip() + Fore.WHITE
 
-logo_design_1 = ('''
-  {0}  ____  __                    _____       __      _ __ 
-   / __ \/ /_  ____  ____  ___ / ___/____  / /___  (_) /_
-  / /_/ / __ \/ __ \/ __ \/ _ \\__ \/ __ \/ / __ \/ / __/
-{1} / ____/ / / / /_/ / / / /  __/__/ / /_/ / / /_/ / / /_  
-/_/   /_/ /_/\____/_/ /_/\___/____/ .___/_/\____/_/\__/  
-                                 /_/''').format(Fore.GREEN, Fore.WHITE, Fore.RED)
+logo_design_1 = +Fore.RED + '''
+    .o oOOOOOOOo                                            OOOo
+    Ob.OOOOOOOo  OOOo.      oOOo.                      .adOOOOOOO
+    OboO"""""""""""".OOo. .oOOOOOo.    OOOo.oOOOOOo.."""""""""'OO
+    OOP.oOOOOOOOOOOO "POOOOOOOOOOOo.   `"OOOOOOOOOP,OOOOOOOOOOOB'
+    `O'OOOO'     `OOOOo"OOOOOOOOOOO` .adOOOOOOOOO"oOOO'    `OOOOo
+    .OOOO'            `OOOOOOOOOOOOOOOOOOOOOOOOOO'            `OO
+    OOOOO                 '"OOOOOOOOOOOOOOOO"`                oOO
+   oOOOOOba.                .adOOOOOOOOOOba               .adOOOOo.
+  oOOOOOOOOOOOOOba.    .adOOOOOOOOOO@^OOOOOOOba.     .adOOOOOOOOOOOO
+ OOOOOOOOOOOOOOOOO.OOOOOOOOOOOOOO"`  '"OOOOOOOOOOOOO.OOOOOOOOOOOOOO
+ "OOOO"       "YOoOOOOMOIONODOO"`  .   '"OOROAOPOEOOOoOY"     "OOO"
+    Y           'OOOOOOOOOOOOOO: .oOOo. :OOOOOOOOOOO?'         :`
+    :            .oO%OOOOOOOOOOo.OOOOOO.oOOOOOOOOOOOO?         .
+    .            oOOP"%OOOOOOOOoOOOOOOO?oOOOOO?OOOO"OOo
+                 '%o  OOOO"%OOOO%"%OOOOO"OOOOOO"OOO':
+                      `$"  `OOOO' `O"Y ' `OOOO'  o             .
+    .                  .     OP"          : o     .
 
-logo_design_2 = Fore.GREEN + '''                                             
-  .;'                     `;,
- .;'  ,;'             `;,  `;,   {0}PhoneSploit
-.;'  ,;'  ,;'     `;,  `;,  `;,
-::   ::   :   {1}( ){0}   :   ::   ::  {1}Coded by ShuBhamg0sain / Metachar{0}
-':.  ':.  ':. {1}/_\{0} ,:'  ,:'  ,:'
- ':.  ':.    {1}/___\{0}    ,:'  ,:'   
-  ':.       {1}/_____\{0}      ,:'
-           {1}/       \\{0}
-'''.format(Fore.GREEN, Fore.WHITE, Fore.RED)
+'''
 
-logo_design_pre = '''
-{0}╔═╗{1}┬ ┬┌─┐┌┐┌┌─┐{0}╔═╗{1}┌─┐┬  ┌─┐┬┌┬┐
-{0}╠═╝{1}├─┤│ ││││├┤ {0}╚═╗{1}├─┘│  │ ││ │ 
-{0}╩  {1}┴ ┴└─┘┘└┘└─┘{0}╚═╝{1}┴  ┴─┘└─┘┴ ┴ '''.format(Fore.GREEN, Fore.WHITE, Fore.RED)
-logo_design_3 = logo_design_pre.decode("utf-8")
+logo_design_2 = +Fore.RED + '''
+                      ,____
+                      |---.\\
+              ___     |    `      PHONESPLOIT
+             / .-\  ./=)
+            |  |"|_/\/|
+            ;  |-;| /_|         REAP THE REWARDS
+           / \_| |/ \ |
+          /      \/\( |
+          |   /  |` ) |
+          /   \ _/    |
+         /--._/  \    |
+         `/|)    |    /
+           /     |   |
+         .'      |   |
+        /         \  |
+       (_.-.__.__./  /
 
-logo_design_4 = '''
-\033[92m
-          +hydNNNNdyh+
-        +mMMMMMMMMMMMMm+
-      `dMMm\033[0m:\033[92mNMMMMMMN\033[0m:\033[92mmMMd`
-      hMMMMMMMMMMMMMMMMMMh##
-  \033[92m..  ShuBhamg0sain###  ..              \033[0m Expoit time :) \033[92m
-\033[92m.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.            \033[0m Thanks for downloading!\033[92m
-\033[92m:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
--MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-
- +yy+ MMMMMMMMMMMMMMMMMMMM +yy+
-      mMMMMMMMMMMMMMMMMMMm
-      `/++MMMMh++hMMMM++/`
-          MMMMo  oMMMM
-          MMMMo  oMMMM
-          oNMm-  -mMNs'''
+'''
+logo_design_3 = +Fore.RED + '''
+•◈•───────────────•◈•ShuBhamg0sain•◈•───────────────•◈•	                                    
+                      :::!~!!!!!:. 
+                  .xUHWH!! !!?M88WHX:.
+                .X*#M@$!!  !X!M$$$$$$WWx:.
+               :!!!!!!?H! :!$!$$$$$$$$$$8X:
+              !!~  ~:~!! :~!$!#$$$$$$$$$$8X:
+             :!~::!H!<   ~.U$X!?R$$$$$$$$MM!
+             ~!~!!!! .: BLACK-KILLER$$$$RMM!
+               !:~~~ .:!M"T#$$$$WX??#MRRMMM!
+               ~?WuxiW*`   `"#$$$$8!!!!??!!!
+             :X- M$$$$       `"T#$T~!8$WUXU~
+            :%`  ~#$$$m:        ~!~ ?$$$$$$
+          :!`.-   ~T$$$$8xx.  .xWW- ~""##*" 
+.....   -~~\033[1;91m:<` !    ~?T#$$@@W@*?$$      /`
+W$@@M!!! .!~~ \033[1;91m!!     .:XUW$W!~ `"~:    :
+#"~~`.:x%`!!  \033[1;91m!H:   !WM$$$$Ti.: .!WUn+!`
+:::~:!!`:X~ .:\033[1;92m ?H.!u "$$$B$$$!W:U!T$$M~
+.~~   :X@!.-~   \033[1;92m?@WTWo("*$$$W$TH$! `
+Wi.~!X$?!-~    : \033[1;92m?$$$B$Wu("**$RM!
+$R@i.~~ !     :   \033[1;92m~$$$$$B$$en:``    
+?MXT@Wx.~    :     \033[1;92m~"##*$$$$M~   
+                  \033[1;31mShuBhamg0sain
+'''
 
 page_1 = '''\n
 {0}[{1}1{0}] {2}Show Connected Devices      {0}[{1}6{0}] {2}Screen record a phone               {0}[{1}11{0}] {2}Uninstall an app                   
