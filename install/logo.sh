@@ -11,10 +11,10 @@ logo_design_1 = Fore.RED + '''
   $$$   $$$   $$$$$$$   $$$   $$$
   $$$   $$$    $$$$$    $$$   $$$
   $$$    $$$   $$$$$   $$$   $$$$
-\033[1;96m   $$$$$$$$-GHOSTSPLOIT-$$$$$$$$
+   $$$$$$$$-GHOSTSPLOIT-$$$$$$$$
            $$$$$$$$$$$$$$
             $$$$$$$$$$$$
-\033[1;96m   $$$$$$$$-GHOSTSPLOIT-$$$$$$$$
+   $$$$$$$$-GHOSTSPLOIT-$$$$$$$$
   $$$$$$$$$$_$$$$$ $$$$$-$$$$$$$$$$
  $$$$   $$$  $$$$   $$$$  $$$   $$$$
  $$$    $$$  $$$$$ $$$$$  $$$    $$$
@@ -38,7 +38,7 @@ logo_design_4 = Fore.RED + '''
     OOP.oOOOOOOOOOOO "POOOOOOOOOOOo.   `"OOOOOOOOOP,OOOOOOOOOOOB'
     `O'OOOO'     `OOOOo"OOOOOOOOOOO` .adOOOOOOOOO"oOOO'    `OOOOo
     .OOOO'            `OOOOOOOOOOOOOOOOOOOOOOOOOO'            `OO
-    OOOOO   \033[1;96mGHOSTSPLOIT   '"OOOOOOOOOOOOOOOO"`  \033[1;96mGHOSTSPLOIT   oOO
+    OOOOO   GHOSTSPLOIT   '"OOOOOOOOOOOOOOOO"`  GHOSTSPLOIT   oOO
    oOOOOOba.                .adOOOOOOOOOOba               .adOOOOo.
   oOOOOOOOOOOOOOba.    .adOOOOOOOOOO@^OOOOOOOba.     .adOOOOOOOOOOOO
  OOOOOOOOOOOOOOOOO.OOOOOOOOOOOOOO"`  '"OOOOOOOOOOOOO.OOOOOOOOOOOOOO
@@ -63,7 +63,7 @@ logo_design_3 = Fore.RED + '''
             ;  |-;| /_|           
            / \_| |/ \ |
           /      \/\( |
-          |   /  |` ) |  \033[1;96mGHOSTSPLOIT\033[1;96m
+          |   /  |` ) |  GHOSTSPLOIT
           /   \ _/    |
          /--._/  \    |
          `/|)    |    /
@@ -94,7 +94,7 @@ W$@@M!!! .!~~ \!!     .:XUW$W!~ `"~:    :
 #"~~`.:x%`!!  \!H:   !WM$$$$Ti.: .!WUn+!`
 :::~:!!`:X~ .:\ ?H.!u "$$$B$$$!W:U!T$$M~
 .~~   :X@!.-~   \?@WTWo("*$$$W$TH$! `
-Wi.~!X$?!-~    : \?$$$B$Wu("**$RM!    \033[1;96mGHOSTSPLOIT\033[1;96m
+Wi.~!X$?!-~    : \?$$$B$Wu("**$RM!    GHOSTSPLOIT
 $R@i.~~ !     :   \~$$$$$B$$en:``
 ?MXT@Wx.~    :     \~"##*$$$$M~ 
 •◈•────────────•◈•@ShuBhamg0sain•◈•────────────•◈•
