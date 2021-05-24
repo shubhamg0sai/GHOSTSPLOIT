@@ -7,7 +7,7 @@
 #=======================================================================================
 import os
 CorrectUsername = "g0sain"
-CorrectPassword = "Hack"
+CorrectPassword = "Gh0st"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m[#] \x1b[0;36m Enter Username\x1b[1;92m➤ ")
