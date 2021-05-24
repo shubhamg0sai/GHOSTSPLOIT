@@ -78,6 +78,7 @@ arrow = str(arrow)
 connect = Fore.RED + "│".decode("utf-8").strip() + Fore.WHITE
 
 logo_design_1 = Fore.RED + '''
+•◈•───────────────────•◈•@ShuBhamg0sain•◈•──────────────────•◈•
     .o oOOOOOOOo                                            OOOo
     Ob.OOOOOOOo  OOOo.      oOOo.                      .adOOOOOOO
     OboO"""""""""""".OOo. .oOOOOOo.    OOOo.oOOOOOo.."""""""""'OO
@@ -99,6 +100,7 @@ logo_design_1 = Fore.RED + '''
 '''
 
 logo_design_2 = Fore.RED + '''
+•◈•─────•◈•@ShuBhamg0sain•◈•─────•◈•
                       ,____
                       |---.\\
               ___     |    `      PHONESPLOIT
@@ -118,8 +120,8 @@ logo_design_2 = Fore.RED + '''
 
 '''
 logo_design_3 = Fore.RED + '''
-•◈•───────────────•◈•ShuBhamg0sain•◈•───────────────•◈•	                                    
-                      :::!~!!!!!:. 
+•◈•────────────•◈•@ShuBhamg0sain•◈•────────────•◈•
+                      :::!~!!!!!:.
                   .xUHWH!! !!?M88WHX:.
                 .X*#M@$!!  !X!M$$$$$$WWx:.
                :!!!!!!?H! :!$!$$$$$$$$$$8X:
@@ -130,16 +132,16 @@ logo_design_3 = Fore.RED + '''
                ~?WuxiW*`   `"#$$$$8!!!!??!!!
              :X- M$$$$       `"T#$T~!8$WUXU~
             :%`  ~#$$$m:        ~!~ ?$$$$$$
-          :!`.-   ~T$$$$8xx.  .xWW- ~""##*" 
+          :!`.-   ~T$$$$8xx.  .xWW- ~""##*"
 .....   -~~\033[1;91m:<` !    ~?T#$$@@W@*?$$      /`
 W$@@M!!! .!~~ \033[1;91m!!     .:XUW$W!~ `"~:    :
 #"~~`.:x%`!!  \033[1;91m!H:   !WM$$$$Ti.: .!WUn+!`
 :::~:!!`:X~ .:\033[1;92m ?H.!u "$$$B$$$!W:U!T$$M~
 .~~   :X@!.-~   \033[1;92m?@WTWo("*$$$W$TH$! `
 Wi.~!X$?!-~    : \033[1;92m?$$$B$Wu("**$RM!
-$R@i.~~ !     :   \033[1;92m~$$$$$B$$en:``    
-?MXT@Wx.~    :     \033[1;92m~"##*$$$$M~   
-                  \033[1;31mShuBhamg0sain
+$R@i.~~ !     :   \033[1;92m~$$$$$B$$en:``
+?MXT@Wx.~    :     \033[1;92m~"##*$$$$M~ 
+
 '''
 
 page_1 = '''\n
