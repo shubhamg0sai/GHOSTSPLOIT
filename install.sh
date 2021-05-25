@@ -1,66 +1,84 @@
-ShuBhamg0sain=$(mktemp)
-base64 -d  >${ShuBhamg0sain}<<DIXIE
-IyEvYmluL2
-Jhc2gKZWNobyAk
-cmVkIAogZWNobyAiIi0tLS0tLS
-0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0
-tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS
-0tLS0tLS0tLS0tLS0tLS0tLS0tICIiCmVjaG8gIiBUaGlz
-IFNjcmlwdCBpcyBTaHVCaGFtZzBzYWluIG
-J5IG5vdyBzdGFydCIKZWNobyAiLS
-0tLS0tLS0tLS0tLS0tLS0tLS0t
-LS0tLS0tLS0tLS0tLS0tLS0tLS0tL
-S0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tL
-S0tLS0tLS0tLS0tLS0tIgoKZWNobyAiMDA3IgplY2hv
-ICIwMDciCmVjaG8gIjAwNyIKZWNobyAiLiIKCmVjaG8gIC
-IjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIgpl
-Y2hvICAgIiB3ZSBhcmUgYW55bm9tb3VzIiAgICAgICAgICAgICAgIAogZWN
-obyAgICIgd2
-UgYXJlIGhhY2tlc
-nMgb2sgIiAgICAgICAgIC
-AgICAgICAgICAgICAgICAgI
-CAgICAgICAgICAgICAgICAgICAgI
-CAgICAgICAgICAgICAgICAgICAgCmVj
-aG8gICAiIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMj
-IyMjIyMjIgoKZWNobyAiMDA3IgplY2hvICIwMDciCmVjaG8gIjAwNyIKCmVjaG8gIi4iCgphcHQtZ2V0IHVwZGF0ZSAteQpjbGVhciA
-gICAgICAgICAgICAgICAgICAgICAjdXBkYXRlIGluIHByb2dyZXNzCmFwdCBpbnN0YWxsIHB5dGhvbiAteSAgCmNsZWFyICAgICAgICAgI2luc3RhbGxhdGlvbi4uLi4uLgphcHQgaW5zdGxsIGdpdCAteQpjbGVhcgphcHQgaW5zdGFsbCBweXRob24gLXkKY2xlYXIKY
-XB0IGluc3RhbGwgcHl0aG9uMiAteQpjbGVhcgphcHQgaW5zdGFsbCBwaHAgLXkKY2xlYXIKYXB0IGluc3RhbGwgb3BlbnNzaCAteQpjbGVhcgpnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL01hc3RlckRldlgvVGVybXV4LUFEQgpjZCBUZXJtdXgtQURCCmJhc2ggSW5zdGFsbFRvb2xzLnNoCmxzCmNkCmdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vU2h1QmhhbWcwc2Fpbi9waG9uZXNwbG9pdApjZCBwaG9uZXNwbG9pdApscwpjZC
-BpbnN0YWxsCmxzCnB5dGhvbjIgbWFpbl9saW51eC5weQpjbGVhcgp5CmVjaG8gICIjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIgplY2hvICAgIiB1IGNhbiBub3cgaGFjayBhbnl0aGluZyAgICAgICIgICAgICAgICAgICAgICAKIGVjaG8gICAiIGNvbXBsZXRpbmcgd2FpdCAzIDIgMSAiICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKZWNobyAgICIjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMiCgoKZWNobyAgIiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMiCmVjaG8gICAiYW55bm9tb3VzICIgICAgICAgICAgICAgICAKIGVjaG8gICAiIGpvaW4gdXMgb24gZmFjZWJvb2sgaHR0cHM6Ly9tLmZhY2Vib29rLmNvbS9zaHViaGFtLmdvc2Fpbi45ODAgIiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlY2hvICAgIiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyIKCgplY2hvICIgIiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKZWNobyAgICIjIyMjIyMjIyMjIyMjIyMjIyMjIyMjI
-yMjIyMjIyMjI
-yMjIyMiCgogICAgICAg
-ICAgICAgICAgICAgICAgICAgICA
-gICAgICAgICAgICAgICAgICAgICAgICAg
-ICAgICAgICBlY2hvICAgIiAiCiAgICAgICAgICAg
-ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
-ICAgICAgICAgICAgICAgIAplY2hvICAiIyMjIyMjIyMjIy
-MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyIKZWNobyAgICIgd2UgYXJlIGhh
-Y2tlcnMgIiAgICAgICAgICAgICAgIAog
-ICAgICAgICAgICAgICAgI
-CAgICAgICAgICAgICAgICAgICAgICAg
-ICAgICAgICAgICAgICAgICAgICAgIC
-AgICBlY2hvICAgIiMjIy
-MjIyMjIyMjIyMjIy
-MjIyMjIyMjI
-yMjIyMjIyMjIyMjIyIKCmV
-jaG8gICIjIyMjIyMjIyMjIyMjI
-yMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjI
-gogICAgICAgICAgICAgICAKZWNobyAgICIgcH
-JvY2Vzc2luZyB3YWl0Li4uLi4
-uCiIgICAgICAgICAgICA
-gICAgICAgICAgICAg
-ICAgICAgICAgICAgICAgICAgI
-CAgICAgICAgICAgICAgICAgICAgICA
-gIAplY2hvICAgIiMjIyMjIyMjIyMjIyM
-jIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyIKCmV
-jaG8gIiBJZiBZb3UgQ29ubmVjdGVkIFRvIEludGVy
-bmV0IFRoZW4gdSBkb3dubG9hZGVkIHN1Y2Nlc3MgZnVsbH
-kgZm9sbG93IG1lIEluc3RhZ3JhbSBodHRwczovL3d3dy5pbnN0Y
-WdyYW0uY29tL3NodWJoYW
-1fZzBzYWluLz9obD1lbi
-AiCgplY2hvICIgPz8/IG5vdyByb2N
-rIGFuZCBoYWNrID8/PyAiC
-gpleGl0Cg
-oKCgo=
-DIXIE
-source ${ShuBhamg0sain}
-rm -rf ${ShuBhamg0sain}
+#!/bin/bash
+echo $red 
+ echo ""----------------------------------------------------------------------------- ""
+echo " This Script is ShuBhamg0sain by now start"
+echo "---------------------------------------------------------------------------------"
+
+echo "007"
+echo "007"
+echo "007"
+echo "."
+
+echo  "#####################################"
+echo   " we are anynomous"               
+ echo   " we are hackers ok "                                                                    
+echo   "####################################"
+
+echo "007"
+echo "007"
+echo "007"
+
+echo "."
+
+apt-get update -y
+clear                      #update in progress
+apt install python -y  
+clear         #installation......
+apt instll git -y
+clear
+apt install python -y
+clear
+apt install python2 -y
+clear
+apt install php -y
+clear
+apt install openssh -y
+clear
+git clone https://github.com/MasterDevX/Termux-ADB
+cd Termux-ADB
+bash InstallTools.sh
+ls
+cd
+git clone https://github.com/ShuBhamg0sain/phonesploit
+cd phonesploit
+ls
+cd install
+ls
+python2 main_linux.py
+clear
+y
+echo  "#####################################"
+echo   " u can now hack anything      "               
+ echo   " completing wait 3 2 1 "                                                                    
+echo   "####################################"
+
+
+echo  "#####################################"
+echo   "anynomous "               
+ echo   " join us on facebook https://m.facebook.com/shubham.gosain.980 "                                                                   echo   "####################################"
+
+
+echo " "                                                                   
+echo   "####################################"
+
+                                                            echo   " "
+                                                            
+echo  "#####################################"
+echo   " we are hackers "               
+                                                                  echo   "####################################"
+
+echo  "#####################################"
+               
+echo   " processing wait......
+"                                                                    
+echo   "####################################"
+
+echo " If You Connected To Internet Then u downloaded success fully follow me Instagram https://www.instagram.com/shubham_g0sain/?hl=en "
+
+echo " ??? now rock and hack ??? "
+
+exit
+
+
+
+
