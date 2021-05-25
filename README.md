@@ -12,13 +12,15 @@
 sudo apt update
 sudo apt upgrade
 sudo apt install git
+sudo apt install wget
 sudo apt install python
 sudo apt install python2
 pip2 install requests
 pip2 install mechanize
+wget https://raw.githubusercontent.com/ShuBhamg0sain/adb-termux/main/install.sh && bash install.sh
 git clone https://github.com/ShuBhamg0sain/GHOSTSPLOIT.git
 cd GHOSTSPLOIT
-bash linux_setup.sh
+python2 linux.py
 ```
 
 
@@ -30,11 +32,13 @@ Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 apt update
 apt upgrade
 apt install git
+apt install wget
 apt install python
 apt install python2
 pip2 install requests
 pip2 install mechanize
+wget https://raw.githubusercontent.com/ShuBhamg0sain/adb-termux/main/install.sh && bash install.sh
 git clone https://github.com/ShuBhamg0sain/GHOSTSPLOIT.git
 cd GHOSTSPLOIT
-bash termux_setup.sh
+python2 termux.py
 ```
