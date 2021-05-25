@@ -3,7 +3,9 @@
 # follow me👇
 👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain)👈
 
-
+# screenshot
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/GHOSTSPLOIT/main/SS/IMG_20210525_100554.jpg)
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/GHOSTSPLOIT/main/SS/IMG_20210525_100503.jpg)
 
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 ```bash
